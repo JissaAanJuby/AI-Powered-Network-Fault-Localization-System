@@ -319,7 +319,7 @@ export default function App() {
           <span className="font-black uppercase text-sm tracking-widest">Live Feed Active</span>
         </div>
         <div className="font-mono font-bold text-sm">
-          OPERATOR: {process.env.USER_EMAIL || 'DHARNISH.M'} | SESSION: {new Date().toISOString().split('T')[0]}
+          OPERATOR: {process.env.USER_EMAIL || 'JISSA AAN JUBY'} | SESSION: {new Date().toISOString().split('T')[0]}
         </div>
       </footer>
     </div>
