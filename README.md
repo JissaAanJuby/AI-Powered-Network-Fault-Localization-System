@@ -1,6 +1,6 @@
 # Cross-Layer Fault Localisation System
 
-An AI-driven full-stack application for detecting and localising network faults across multiple network layers. The system combines a React dashboard with a FastAPI backend that analyses telemetry such as latency, packet loss, jitter, optical power, CRC errors, CPU usage, SNMP status, and hop position to identify likely fault categories and affected network segment.
+An AI-driven full-stack application for detecting and localising network faults across multiple network layers. The system combines a React dashboard with a FastAPI backend that analyses telemetry such as latency, packet loss, jitter, optical power, CRC errors, CPU usage, SNMP status, and hop position to identify likely fault categories and affected network segments.
 
 ## Features
 
